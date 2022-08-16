@@ -7,3 +7,5 @@ while True:
     products.append([name, price])
 print(products)
 
+for product in products:
+    print(product)
